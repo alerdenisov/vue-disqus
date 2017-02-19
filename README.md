@@ -18,7 +18,7 @@ $ npm install vue-disqus
 <template>
   // omited
   <div class="comments">
-    <disqus shortname="your_shortname_disqus"></disqus>
+    <vue-disqus shortname="your_shortname_disqus"></vue-disqus>
   </div>
 </template>
 
